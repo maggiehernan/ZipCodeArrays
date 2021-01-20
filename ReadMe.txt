@@ -33,12 +33,6 @@ Reflection:
      -- Good learning experience for working with exceptions because those are fairly new to me
      -- Overall, a more difficult experience, but helped me better understand encapsulation and other topics better
 
-
-I Worked With:
-==============
-Elisa Kardhashi
-Office hours
-
 Approximate Hours worked:
 =========================
 11
@@ -49,5 +43,5 @@ None
 
 Known Bugs or Limitations:
 ==========================
-    Should not be any...if running on a PC/Windows might need to put "C:" in front of the filename
+    Should not be any
 
